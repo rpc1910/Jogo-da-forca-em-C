@@ -1,0 +1,38 @@
+
+
+
+			00000       0000000    00000000    000000      0000000      000000       0000000000	
+			00  000     00    00   00         00   00     00    00     00   00       00      00	
+			00   000    00    00   00        00    00     00    00    00    00       00      00	
+			00  000     00   00    00              00      00   00          00       00      00	
+			00000       000000     00              00       000000          00       00      00	
+			00   00     00         00              00           00          00       00      00	
+			00    00    00         00              00           00          00       00      00	
+			00     00   00         00000000    0000000000       00      0000000000   0000000000	
+
+
+
+
+		< Instrucoes >
+		   O jogo possui dois modulos, o Singleplayer e o Multiplayer.
+		   No Singleplayer, o jogo escolhe aleatoriamente entre as palavras gravadas no arquivo "Palavras.dat"
+			
+			
+			
+		< Ranking >
+		   O Ranking e atualizado conforme e jogado o modo Singleplayer. Quanto mais palavras voce acertar
+		   melhor sera sua posicao no ranking.
+			
+			
+			
+			
+		< Multiplayer >
+		   Nesse modo, voce digita a palavra que o outro jogador tera q advinhar.
+		   Nao sao computados pontos nesse modo!!
+		
+
+
+
+
+		
+		Bom divertimento!!!			

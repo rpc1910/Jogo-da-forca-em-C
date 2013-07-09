@@ -1,0 +1,30 @@
+# Project: jogo-da-forca-DEV
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = Programa-Principal.o $(RES)
+LINKOBJ  = Programa-Principal.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib" C:/Dev-Cpp/lib/libwsock32.a  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = jogo-da-forca-DEV.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before jogo-da-forca-DEV.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o "jogo-da-forca-DEV.exe" $(LIBS)
+
+Programa-Principal.o: Programa-Principal.c
+	$(CC) -c Programa-Principal.c -o Programa-Principal.o $(CFLAGS)

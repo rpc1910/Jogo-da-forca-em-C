@@ -1,0 +1,30 @@
+
+
+
+			00000       0000000    00000000    000000      0000000      000000       0000000000	
+			00  000     00    00   00         00   00     00    00     00   00       00      00	
+			00   000    00    00   00        00    00     00    00    00    00       00      00	
+			00  000     00   00    00              00      00   00          00       00      00	
+			00000       000000     00              00       000000          00       00      00	
+			00   00     00         00              00           00          00       00      00	
+			00    00    00         00              00           00          00       00      00	
+			00     00   00         00000000    0000000000       00      0000000000   0000000000	
+
+
+
+
+		< Instrucoes >
+		   Para jogar, siga os seguintes passos:
+			1 - Peca para que seu adversario inicie o programa com a opcao <B> aguardar conexao
+			2 - Quando o seu adversario estiver aguardando a conexao, pressione ENTER e siga as instrucoes da tela
+
+
+		
+		A T E N C A O ! ! ! !
+		   Se os passos descritos acima nao forem seguidos, o programa nao ira funcionar, pois ainda estamos nas fases
+		   de testes....
+
+
+
+		
+		Bom divertimento!!!			
